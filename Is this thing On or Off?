@@ -1,0 +1,15 @@
+Run
+Fail  
+Run Again
+If a = a then a = a + 1
+Goto a
+A Return
+Gosub A
+Next
+End
+
+
+***
+***
+
+REM - This isn't going to work I don't think...  ???
